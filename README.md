@@ -6,11 +6,11 @@ A Facebook-inspired social media platform, built entirely in React with no backe
 
 | Feed | Create Post |
 |---|---|
-| _add screenshot_ | _add screenshot_ |
+|  ![Feed](./screenshots/image4.png) | ![Create Post](./screenshots/image-1.png) |
 
 | Profile | Dashboard |
 |---|---|
-| _add screenshot_ | _add screenshot_ |
+| ![Profile](./screenshots/image-2.png) | ![My Posts](./screenshots/image.png) |
 
 > Take these after running `npm run dev` locally — Feed page, Create Post form (with an image selected), a Profile page, and the My Posts dashboard.
 
