@@ -2,21 +2,15 @@
 
 A Facebook-inspired social media platform, built entirely in React with no backend — every user, post, comment, and like lives in the browser's `localStorage`.
 
-## Live Demo
-
-🔗 **[Add your deployed link here after deploying to Vercel/Netlify]**
-
-> Deploy in under a minute: run `vercel` in this folder (or drag the `dist/` folder into Netlify's "Deploys" tab after running `npm run build`).
-
 ## Screenshots
 
 | Feed | Create Post |
 |---|---|
-| _add screenshot_ | _add screenshot_ |
+|  ![Feed](.\screenshots\feed.png) | ![Create Post](.\screenshots\create-post.png) |
 
 | Profile | Dashboard |
 |---|---|
-| _add screenshot_ | _add screenshot_ |
+| ![Profile](.\screenshots\profile.png) | ![My Posts](.\screenshots\Dashboard.png) |
 
 > Take these after running `npm run dev` locally — Feed page, Create Post form (with an image selected), a Profile page, and the My Posts dashboard.
 
